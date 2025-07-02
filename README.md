@@ -11,7 +11,7 @@ This repository contains the solution for **Task-01** of the **Prodigy InfoTech 
 - **Task Name:** Data Distribution Visualization  
 - **Task Code:** PRODIGY_DS_01  
 - **Track:** Data Science  
-- **Intern:** Hashir Muhammed  
+- **Intern:** Deepak Denny 
 - **Internship Duration:** June 2025  
 - **Certificate Eligibility:** Task Completed ✅  
 
