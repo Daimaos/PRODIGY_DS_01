@@ -70,4 +70,4 @@ Shows distribution of random city populations.
 
 ## 📣 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/hashir-muhammed-ba82b3282/)
+- [LinkedIn](https://www.linkedin.com/in/deepak-denny-2618b8372/)
